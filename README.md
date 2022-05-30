@@ -1,6 +1,6 @@
 # Quiz-Game-using-Python
 
-#Description
+**Description**
 
 Program to create a quiz game using Python programming language. It consists of 10 questions. 
 
@@ -10,11 +10,11 @@ The quiz begins by asking 10 questions one by one. The user writes the answer an
 
 When all the questions are responded then the program gives the score of the user as final output. 
 
-#Programming Language: 
+**Programming Language:** 
 
 Python (v-3.9.9)
 
-#Software used:
+**Software used:**
 
 Pycharm (v-2021.1.3)
 
